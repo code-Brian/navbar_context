@@ -2,7 +2,7 @@
 
 ## Todo: 
 - [x] Create the Form component
-- [ ] Create the FormWrapper component
-- [ ] Create your Navbar component
-- [ ] Create the Wrapper component
-- [ ] Create the context object
+- [x] Create the FormWrapper component
+- [x] Create your Navbar component
+- [x] Create the Wrapper component
+- [x] Create the context object
